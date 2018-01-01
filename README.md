@@ -1,10 +1,12 @@
 # Vortex Graphs
 
+![Vortex Graph base 10](https://i.imgur.com/edHVWR1.png)
+
 Vortex graphs are astounding visualisations of the current and circularity driving numbers.
 In base 10, the vortex graph is quite known under Tesla's 3-6-9 secret, leading to multiplication tables, the
 physical appearance of the Tesla coil, and possibly much more.
 
-In this project I've created a VortexGraph class which can draw the vortex graph of any given numgber system base.
+In this project I've created a VortexGraph class which can draw the vortex graph of any given number system base.
 I did this because it took me way to long to draw them by hand for higher bases.
 
 If this is of interest to you or useful to you, feel free to contact me at any time!
